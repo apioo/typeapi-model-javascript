@@ -2,7 +2,6 @@ export * from './src/AnyType';
 export * from './src/Argument';
 export * from './src/ArrayType';
 export * from './src/BooleanType';
-export * from './src/Client';
 export * from './src/CommonType';
 export * from './src/Discriminator';
 export * from './src/GenericType';
