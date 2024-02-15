@@ -1,5 +1,5 @@
 {
-  "type": "client-typescript",
+  "type": "model-typescript",
   "require": {
     "typehub/typeapi": {
       "target": "./src"
