@@ -1,0 +1,11 @@
+{
+  "type": "client-typescript",
+  "require": {
+    "typehub/typeapi": {
+      "target": "./src"
+    },
+    "typehub/typeschema": {
+      "target": "./src"
+    }
+  }
+}
