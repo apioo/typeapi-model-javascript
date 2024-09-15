@@ -2,10 +2,10 @@
   "type": "model-typescript",
   "require": {
     "typehub/typeapi": {
-      "target": "./src"
+      "target": "./src/api"
     },
     "typehub/typeschema": {
-      "target": "./src"
+      "target": "./src/schema"
     }
   }
 }
