@@ -1,4 +1,4 @@
-import {TypeSchema} from "./TypeSchema";
+import {TypeSchema} from "./../schema/TypeSchema";
 import {Security} from "./Security";
 import {Operation} from "./Operation";
 
