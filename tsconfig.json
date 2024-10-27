@@ -10,7 +10,6 @@
     "esModuleInterop": true
   },
   "include": [
-    "src/api/*",
-    "src/schema/*",
+    "src/*",
   ]
 }
