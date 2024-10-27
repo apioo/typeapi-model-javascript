@@ -1,6 +1,6 @@
 {
   "name": "typeapi-model",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "This library contains models to represent a TypeAPI and TypeSchema specification",
   "keywords": [
     "TypeAPI",
