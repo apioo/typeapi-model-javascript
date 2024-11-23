@@ -4,7 +4,7 @@
     "typehub/typeapi": {
       "target": "./src",
       "mapping": {
-        "typeschema": "typeschema"
+        "typeschema": "typeschema-model"
       }
     }
   }

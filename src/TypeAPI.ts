@@ -1,4 +1,4 @@
-import {TypeSchema} from "./typeschema/TypeSchema";
+import {TypeSchema} from "typeschema-model";
 import {Operation} from "./Operation";
 import {Security} from "./Security";
 

@@ -1,4 +1,4 @@
-import {PropertyType} from "./typeschema/PropertyType";
+import {PropertyType} from "typeschema-model";
 
 export interface Argument {
     contentType?: string
