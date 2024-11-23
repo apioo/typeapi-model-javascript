@@ -1,0 +1,11 @@
+{
+  "type": "model-typescript",
+  "require": {
+    "typehub/typeapi": {
+      "target": "./src",
+      "mapping": {
+        "typeschema": "typeschema"
+      }
+    }
+  }
+}

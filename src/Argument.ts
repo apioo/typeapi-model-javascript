@@ -1,9 +1,9 @@
-import {PropertyType} from "./PropertyType";
+import {PropertyType} from "./typeschema/PropertyType";
 
 export interface Argument {
-    in?: string
-    schema?: PropertyType
     contentType?: string
+    in?: string
     name?: string
+    schema?: PropertyType
 }
 
