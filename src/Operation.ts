@@ -10,7 +10,6 @@ export interface Operation {
     return?: Response
     security?: Array<string>
     stability?: number
-    tags?: Array<string>
     throws?: Array<Response>
 }
 
