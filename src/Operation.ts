@@ -1,8 +1,11 @@
-import {Argument} from "./Argument";
-import {Response} from "./Response";
+import type {Argument} from "./Argument";
+import type {Response} from "./Response";
 
+/**
+ * Describes an API endpoint operation.
+ */
 export interface Operation {
-    arguments?: Map<string, Argument>
+    arguments?: Record<string, Argument>
     authorization?: boolean
     description?: string
     method?: string
